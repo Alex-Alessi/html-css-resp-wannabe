@@ -140,7 +140,7 @@ img {
 
   .lessons .col img {
     display: flex;
-    height: 300px;
+    height: 200px;
     margin-bottom: 2rem;
     max-width: 300px;
   }
