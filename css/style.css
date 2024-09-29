@@ -129,6 +129,21 @@ img {
   ************************************************/
 
 @media screen and (max-width: 768px) {
+  .container {
+    max-width: 768px;
+  }
+
+  .container .row {
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .lessons .col img {
+    display: flex;
+    height: 300px;
+    margin-bottom: 2rem;
+    max-width: 300px;
+  }
 }
 
 @media screen and (max-width: 480px) {
