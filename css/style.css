@@ -144,6 +144,10 @@ img {
     margin-bottom: 2rem;
     max-width: 300px;
   }
+
+  .why-us .col-left {
+    margin-top: -250px;
+  }
 }
 
 @media screen and (max-width: 480px) {
